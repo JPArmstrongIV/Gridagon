@@ -1,0 +1,6 @@
+The first part of the version name is the game state.
+A is alpha the alpha is the current game state, it is playable but does not include polish, final ui state. The game play should be representative of the final state but not complete the ui and secondary features will not be complete or avalible.
+
+The second part is the feature version when the game has a new primary feature, game modes, scoring type, multiplayer, ect this version will increment.
+
+The last part is the fix version it will increment with every alteration to the game, mainly as parts of bug fixes and adjustments to gameplay without the addition of features.
